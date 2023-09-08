@@ -1,4 +1,4 @@
-# Safe System Approach
+# Equity In Transportation
 
 The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a decade old method applied in Sweden in the 1990s. Later, Australia and New Zealand adopted SSA and during the last 20 years, these countries reduced fatalities by nearly 50%  while U.S. reduced fatalities by less than 20%. Additionally, during 2020-2021, fatalities increased by around 7% compared to the earlier years. Thus, there is an urgance for using SSA in the U.S. to reduce traffic crashes and crash involved injuries. The U.S. based SSA considers an additional pillar (`post-crash care`) compared to the SSA used in other countries. The other four pillars are: `safe road users`, `safe roads`, `safe vehicles`, and `safe speeds`. It is now true that there will be many new programs, and funding opportunities for SSA based analysis in the U.S. As the U.S. safety researchers are not familiar with the SSA, there is a need for `a place to have it all` and this GitHub page aims to fill the gap.  
 
@@ -48,19 +48,19 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### ITE
 - **Safe System Resources** Wunderlich and Paniati (2022) [[website]](https://www.ite.org/technical-resources/topics/safe-systems/)  
-- **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf) 
+- **VZ Roundtable Report** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/VZ_Roundtable_Report.pdf)
 - **Recommendation to SS COnsortium** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Imp.pdf) ❤️
-- **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf) 
+- **Case Studies of SS in the U.S.** (2021) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/US%20SS%20Case%20Studies.pdf)
 
 **[`^        back to top        ^`](#)**
 
 
 ### FHWA
 - **A SS Framework and Analytics for Intersections** Porter et al. (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2021%20Porter%20SS%20Analytical%20Intersection.pdf) `intersection` ❤️
-- **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) ❤️ 
+- **Public Road Magazine: SS Issue** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20Public%20Roads%20SS.pdf) ❤️
 - **SSA with HSIP** Finkel et al. (2020) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2018%20Finkel%20SS%20HSIP.pdf) `HSIP`
-- **Public Roads SS Issue** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2022%20Public%20Roads%20SS.pdf)   ❤️ 
-- **Road to Zero: SS Strategic Plan** Abel et al. (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20Abel%20SS%20Stragetigic%20Plan.pdf)   ❤️ 
+- **Public Roads SS Issue** (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2022%20Public%20Roads%20SS.pdf)   ❤️
+- **Road to Zero: SS Strategic Plan** Abel et al. (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20Abel%20SS%20Stragetigic%20Plan.pdf)   ❤️
 
 **[`^        back to top        ^`](#)**
 
@@ -233,7 +233,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **07a. SS Infrastructure** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/7a_Safe_System_Infrastructure_Workshop.pdf) ❤️
 - **08. Speed Management** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/8_Speed_Management.pdf) ❤️
 - **09. Intersections** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/9_Intersections.pdf) ❤️
-- **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf) ❤️ 
+- **10. SS Implementation** [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/AustRoad%20Safety/AP-C106-19_Safe_System_Workshop_Materials/10_Measuring_the_Progress_of_Safe_System_Implementation.pdf) ❤️
 
 **[`^        back to top        ^`](#)**
 
@@ -262,7 +262,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 **[`^        back to top        ^`](#)**
 
-### New Zealand 
+### New Zealand
 - **Towards a SS of Cycling** NZ Transport Agency (2017) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2017%20Towards%20a%20safe%20system%20for%20cycling.pdf)
 - **High-risk rural roads guide** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2011%20NZ%20High%20Risk%20Rural%20Road%20Guide.pdf) `rural`  ❤️
 - **Safe Speed factsheet** NZ Transport Agency (2011) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/SS%20Speed.pdf) `rural`  ❤️
@@ -279,9 +279,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Others
-- **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf) 
-- **Sustainable and Safe** World Resource Institute [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2020_sustainable_and_safe.pdf) 
-- **The SSA in Action** International Transportation Forum (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021_SSA_Action.pdf) 
+- **SS Factsheet** ROSPA (2018) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021%20SS%20Factsheet.pdf)
+- **Sustainable and Safe** World Resource Institute [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2020_sustainable_and_safe.pdf)
+- **The SSA in Action** International Transportation Forum (2022) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2021_SSA_Action.pdf)
 
 
 **[`^        back to top        ^`](#)**
@@ -293,12 +293,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **A SS Response: Protecting Motorcyclists** Sirol et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/ARSC/2018%20(EA)%20Sutton%20A%20Safe%20Systems%20Response.pdf) `motorcycle` 🏁
 - **MotoSafe: Active Safe System for Digital Forensics of Motorcycle Rider with Android** Condro et al. (2012) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/171A00275.pdf) `motorcycle`
 - **Towards a Safe System Approach to Prevent Health Loss among Motorcyclists** Rizzi (2016) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/235886.pdf) `motorcycle` `thesis`
-- **The Global Motorcycle Industry’s Approach to Road Safety** IMMA (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/imma.pdf) `motorcycle` 
-- **Motorcycle Crashes in Australia** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/Motorcycle_Crash_Fact_Sheet.pdf) `motorcycle` 
-- **NSW Motorcycle Safety Strategy 2012 – 2021** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle` 
-- **Motorcycle safety in Western Australia** Hobday (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/MotorcycleSafetyWASafeSystemApproach.pdf) `motorcycle` 
-- **Improving Safety for Motorcycle, Scooter and Moped Riders** OECD (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcyclesaf.pdf) `motorcycle` 
-- **Motorcycle Crash** Budd et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/vsrg.pdf) `motorcycle` 
+- **The Global Motorcycle Industry’s Approach to Road Safety** IMMA (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/imma.pdf) `motorcycle`
+- **Motorcycle Crashes in Australia** (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/Motorcycle_Crash_Fact_Sheet.pdf) `motorcycle`
+- **NSW Motorcycle Safety Strategy 2012 – 2021** (2021) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcycle_strategy2012.pdf) `motorcycle`
+- **Motorcycle safety in Western Australia** Hobday (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/MotorcycleSafetyWASafeSystemApproach.pdf) `motorcycle`
+- **Improving Safety for Motorcycle, Scooter and Moped Riders** OECD (2020) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/motorcyclesaf.pdf) `motorcycle`
+- **Motorcycle Crash** Budd et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/Specific/motorcycle/vsrg.pdf) `motorcycle`
 
 
 
@@ -308,7 +308,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### News on U.S. based Safe System
-- [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/) 
+- [National Roadway Safety Strategy Marks A Critical Turning Point](https://www.railstotrails.org/trailblog/2022/february/03/national-roadway-safety-strategy-marks-a-critical-turning-point/)
 
 
 ### Opposing Safe System
@@ -317,11 +317,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 **[`^        back to top        ^`](#)**
 
 ### CSCRS
-The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, not exactly Safe System. 
+The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafety.unc.edu/) is a National University Transportation Center supporting the FAST Act research priority of promoting safety. Note that this UTC promotes Safe SystemS, not exactly Safe System.
 <a href="https://www.roadsafety.unc.edu/"><img align="left" src="https://github.com/subasish/safesystems/blob/main/Documents/Fig/CSCRS1.PNG"/></a>
 
 - **CAVs and VRUs: A Systems Approach** McDonald et al. (2018) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20CSV%20Systems%20Approach.pdf) `cav` `vru`
-- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf) 
+- **An Enhanced Systematic Approach to Roadway Safety** Grembek et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20Enhanced%20SS.pdf)
 - **Structures of Stakeholders Relationship** LaJenueese et al. (2019) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2018%20CSCRS%20RS%20Stakeholders.pdf)
 - **Implementating SS in the U.S.: Lesson from International Practice** Dumbaugh et al. (2019) [[pdf]](https://github.com/subasish/Safe-System/blob/main/Documents/2019%20CSCRS%20Implement%20SS%20in%20US.pdf)
 
@@ -334,7 +334,7 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 - **NCHRP 20-24(145): Harnessing the Safe System Approach to Meaningfully Improve Traffic Safety** (2023) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5424) `ssa` `nchrp`
 
 
-### RIP 
+### RIP
 - **NCHRP 17-101: Applying the Safe System Approach to Transportation Planning, Design, and Operations in the United States** (UNC, 2023) [[link]](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5088) `ssa` `nchrp`
 
 --------------------
@@ -344,5 +344,3 @@ The [Collaborative Sciences Center for Road Safety (CSCRS)](https://www.roadsafe
 - CRC Press Book [Aritificial Intelligence in Highway Safety](https://github.com/subasish/AI_in_HighwaySafety)
 - [Awesome NCHRP Reports](https://github.com/subasish/Awesome-NCHRP-Reports)
 - [Highway Safety Courses](https://github.com/subasish/NCHRP-20-07-384-CC-Courses)
-
-
